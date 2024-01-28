@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Nilufar</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <div>
-        <img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" alt="">
+        <img width="400" align="right" src="https://i.pinimg.com/564x/8d/85/6d/8d856d73c15c6281d004b33f291412bf.jpg" alt="">
 </div>
 - 🔭 I’m currently working on **Online Bookstores**
 
